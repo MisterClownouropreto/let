@@ -249,7 +249,7 @@ IMPORTANTE – LEIA COM ATENÇÃO: O presente Contrato de Licença do Usuário 
 (viii) um dia ou mês trata-se de um dia ou mês do calendário;
 
 (b) o significado de qualquer expressão geral não se restringe ao exemplo apresentado e as palavras “inclui”, “inclusive”, “tal como”, “por exemplo” ou outras similares não são palavras que implicam limitação;
-(c) as palavras “custos” e “despesas” incluem as taxas, despesas e custos advocatícios razoáveis tomando como base uma indenização completa;
+(c) as palavras “custos” e “despesas” incluem as taxas, despesas e custos advocatícios razoáveis tomando como base uma indenização completa;
 (d) os títulos e índices estão incluídos neste instrumento para facilitar sua leitura e não fazem parte deste documento nem afetam sua interpretação;
 (e) se for especificado um período ou data a partir de determinado dia ou um dia de uma ação ou ocorrência determinada, ele deve ser calculado exclusivamente a partir do dia em questão;
 (f) o período entre dois dias, atos ou ocorrências inclui o dia da ocorrência ou realização da segunda, mas não o primeiro ato ou ocorrência;
