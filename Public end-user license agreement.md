@@ -196,22 +196,23 @@ IMPORTANTE – LEIA COM ATENÇÃO: O presente Contrato de Licença do Usuário 
 
 
 18. Geral
-18.1 O Licenciado deverá avisar o desenvolvedor distribuidor imediatamente se, a qualquer momento, tomar conhecimento da existência de qualquer descumprimento de suas obrigações estipuladas no presente Contrato de Licença.
-18.2 Esta Licença é regida e compreendida de acordo com as leis de direitos autorais universal. Qualquer disputa que houver com respeito a estes termos estará sujeita à jurisdição exclusiva do desenvolvedor distribuidor e seu corpo jurídico  e as partes submetem-se à jurisdição desse tribunal para tais fins e renunciam qualquer objeção quanto à jurisdição ou local caso todo contrato seja cumprido rigorosamente pelo desenvolvedor distribuidor.
+
+18.1 O Licenciado deverá avisar o desenvolvedor distribuidor imediatamente se, a qualquer momento, tomar conhecimento da existência de qualquer descumprimento de suas obrigações estipuladas no presente Contrato de Licença.
+18.2 Esta Licença é regida e compreendida de acordo com as leis de direitos autorais universal. Qualquer disputa que houver com respeito a estes termos estará sujeita à jurisdição exclusiva do desenvolvedor distribuidor e seu corpo jurídico  e as partes submetem-se à jurisdição desse tribunal para tais fins e renunciam qualquer objeção quanto à jurisdição ou local caso todo contrato seja cumprido rigorosamente pelo desenvolvedor distribuidor.
  
 19. Definições
-19.1 O termo Código Acessível refere-se ao código fonte que está desprotegido e acessível no Software e inclui, entre outros, as compilações, scripts, macros, relatórios personalizados e fluxos de trabalho.
-19.2 “Software Adicional” refere-se às atualizações, patches, novas funcionalidades, suplementos, plug-ins, modificações personalizadas ou novas funcionalidades específicas às necessidades do Licenciado e outros componentes de complemento do Software.
-19.3 “Usuário Autorizado” refere-se a uma pessoa física autorizada pelo Licenciado a acessar ou utilizar o Software sob uma Licença de Usuário.
-19.4 O termo desenvolvedor distribuidor refere-se à let Clube & Studio de aplicativos locado fisicamente no endereço publicamente no website do desenvolvedor distribuidor.
-19.5 O termo Software Incorporado refere-se a qualquer software de terceiros que possa conter um “Código Acessível” ou “Código Protegido” licenciado pelo desenvolvedor distribuidor fornecido por um terceiro e incorporado ao Software.
-19.6 “Contrato de Licença” refere-se ao presente documento, bem como a qualquer o adendo ou aditivo fornecido pelo desenvolvedor distribuidor ao Licenciado.
-19.7 “Tarifas” referem-se a todas as tarifas e despesas que o Licenciado pagar à desenvolvedor distribuidor ou a um Revendedor na aquisição do Software e das Licenças de Usuário.
-19.8 “Direitos de Propriedade Intelectual” referem-se aos direitos previstos em qualquer patente, direito autoral, projeto ou marca comercial, seja na jurisprudência ou na legislação, direitos de solicita registro legítimo nos termos dos direitos de propriedade intelectual ou de outros direitos similares que protejam segredos comerciais, fundo de comércio ou informações confidenciais.
-19.9 “Código Protegido” refere-se a um código fonte cujo acesso foi protegido pelo desenvolvedor distribuidor ou por um terceiro.
-19.10 “Revendedor” refere-se a uma entidade que vende ou distribui os produtos do desenvolvedor distribuidor e que está autorizada pelo desenvolvedor distribuidor a fazê-lo.
-19.11 O termo Software refere-se ao software que acompanha o presente Contrato de Licença, incluindo software de computador, Software Adicional, Código Acessível, Código Protegido e mídias relacionadas, materiais impressos, documentação online ou eletrônica, serviços na internet e Software Incorporado.
-19.12 “Licença do Usuário” refere-se a uma ou mais licenças concedidas pelo desenvolvedor distribuidor ao Licenciado no presente Contrato de Licença para permitir que um Usuário Autorizado acesse e use o Software. O número de Licenças do usuário concedidas ao Licenciado depende das Tarifas que ele pagar.
+19.1 O termo Código Acessível refere-se ao código fonte que está desprotegido e acessível no Software e inclui, entre outros, as compilações, scripts, macros, relatórios personalizados e fluxos de trabalho.
+19.2 “Software Adicional” refere-se às atualizações, patches, novas funcionalidades, suplementos, plug-ins, modificações personalizadas ou novas funcionalidades específicas às necessidades do Licenciado e outros componentes de complemento do Software.
+19.3 “Usuário Autorizado” refere-se a uma pessoa física autorizada pelo Licenciado a acessar ou utilizar o Software sob uma Licença de Usuário.
+19.4 O termo desenvolvedor distribuidor refere-se à let Clube & Studio de aplicativos locado fisicamente no endereço publicamente no website do desenvolvedor distribuidor.
+19.5 O termo Software Incorporado refere-se a qualquer software de terceiros que possa conter um “Código Acessível” ou “Código Protegido” licenciado pelo desenvolvedor distribuidor fornecido por um terceiro e incorporado ao Software.
+19.6 “Contrato de Licença” refere-se ao presente documento, bem como a qualquer o adendo ou aditivo fornecido pelo desenvolvedor distribuidor ao Licenciado.
+19.7 “Tarifas” referem-se a todas as tarifas e despesas que o Licenciado pagar à desenvolvedor distribuidor ou a um Revendedor na aquisição do Software e das Licenças de Usuário.
+19.8 “Direitos de Propriedade Intelectual” referem-se aos direitos previstos em qualquer patente, direito autoral, projeto ou marca comercial, seja na jurisprudência ou na legislação, direitos de solicita registro legítimo nos termos dos direitos de propriedade intelectual ou de outros direitos similares que protejam segredos comerciais, fundo de comércio ou informações confidenciais.
+19.9 “Código Protegido” refere-se a um código fonte cujo acesso foi protegido pelo desenvolvedor distribuidor ou por um terceiro.
+19.10 “Revendedor” refere-se a uma entidade que vende ou distribui os produtos do desenvolvedor distribuidor e que está autorizada pelo desenvolvedor distribuidor a fazê-lo.
+19.11 O termo Software refere-se ao software que acompanha o presente Contrato de Licença, incluindo software de computador, Software Adicional, Código Acessível, Código Protegido e mídias relacionadas, materiais impressos, documentação online ou eletrônica, serviços na internet e Software Incorporado.
+19.12 “Licença do Usuário” refere-se a uma ou mais licenças concedidas pelo desenvolvedor distribuidor ao Licenciado no presente Contrato de Licença para permitir que um Usuário Autorizado acesse e use o Software. O número de Licenças do usuário concedidas ao Licenciado depende das Tarifas que ele pagar.
 19.13 website do desenvolvedor distribuidor refere-se ao link e URL " let.wix.com ".
 
 
