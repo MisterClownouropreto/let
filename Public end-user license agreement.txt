@@ -212,7 +212,7 @@ IMPORTANTE – LEIA COM ATENÇÃO: O presente Contrato de Licença do Usuário 
 19.10 “Revendedor” refere-se a uma entidade que vende ou distribui os produtos do desenvolvedor distribuidor e que está autorizada pelo desenvolvedor distribuidor a fazê-lo.
 19.11 O termo Software refere-se ao software que acompanha o presente Contrato de Licença, incluindo software de computador, Software Adicional, Código Acessível, Código Protegido e mídias relacionadas, materiais impressos, documentação online ou eletrônica, serviços na internet e Software Incorporado.
 19.12 “Licença do Usuário” refere-se a uma ou mais licenças concedidas pelo desenvolvedor distribuidor ao Licenciado no presente Contrato de Licença para permitir que um Usuário Autorizado acesse e use o Software. O número de Licenças do usuário concedidas ao Licenciado depende das Tarifas que ele pagar.
-19.13 website do desenvolvedor distribuidor refere-se ao link e URL " let.wix.com ".
+19.13 website do desenvolvedor distribuidor refere-se ao link e URL " let.wix.com " ou " https://ouropreto426.wixsite.com/let-site ".
 
 
 
